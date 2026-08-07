@@ -1,0 +1,23 @@
+MOD Release（Rhino 8 / .NET 7）
+
+安装：
+1. 保持本文件夹内所有 DLL、JSON 和 runtimes 子目录的相对位置不变。
+2. 在 Rhino 8 的插件管理器中安装 MOD.rhp，或把 MOD.rhp 拖入 Rhino 窗口。
+3. 重启 Rhino 后运行 MOD_License，确认显示“已授权”。
+4. 如果 Rhino 已加载 Debug 版，请先保存工作并完全退出所有 Rhino 进程；运行中的同名插件无法热替换。
+
+在线授权：
+- 插件会通过固定的 raw.githubusercontent.com 地址匿名读取 GitHub 仓库 wangpeidong2002/MOD-Licenses。
+- 不使用 GitHub REST Contents API，避免匿名 API 每小时额度导致误报“访问频率限制”。
+- 首次受保护命令需要联网；本地不保存离线许可证。
+- 无网络、清单无效、机器未授权或授权过期时，受保护命令会安全拒绝执行。
+
+网络更新：
+- 工程设置中的更新器只读取公开仓库 wangpeidong2002/MOD-Release 的固定 Raw 地址。
+- 更新源不可编辑，也没有私有仓库或备用下载地址。
+- 自动更新当前只替换 MODCreo.dll；完整安装或外壳更新请重新部署整个 Release 文件夹。
+
+发布说明：
+- MOD.rhp 和 MODCreo.dll 已执行发布混淆。
+- 本包不包含 RhinoCommon.dll、调试符号或混淆映射文件。
+- 不要单独移动 MOD.rhp；MODCreo.dll、MODTable.dll 和 runtimes 目录必须与其一起部署。
