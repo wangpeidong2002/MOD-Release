@@ -1,6 +1,6 @@
 {
     "version":  "1.0.0",
     "url":  "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODCreo.dll",
-    "sha256":  "4D114867A5EAF378F6A6F2F76E820A491F7A7E01D9A948A72C6F24C1C454A80E",
+    "sha256":  "96B7DADCC734D1D6722B2C32BA914043A15C18CF86DE3AF740094DA1CE913326",
     "notes":  "固定 GitHub Raw 更新源并启用在线授权。"
 }
