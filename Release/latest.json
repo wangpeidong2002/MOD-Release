@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.1",
+    "version":  "1.0.2",
     "url":  "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODCreo.dll",
-    "sha256":  "92ED6D157260706C4BBF2653B4CEF750D78145D959D4A89B8CD2115BB8BE52D5",
-    "notes":  "新增 MOD 菜单中的授权管理入口，并保持 GitHub 在线授权与固定 Raw 更新源。"
+    "sha256":  "63C400DCE3CB5D09E4AA697213646C3EEFE7700447BCBFD9E41ACE991A8A1B28",
+    "notes":  "强化 Release 混淆：隐藏授权敏感字符串、重命名内部授权实现，并增加受保护产物发布校验。"
 }
