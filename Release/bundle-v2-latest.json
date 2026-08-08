@@ -1,0 +1,16 @@
+{
+  "schema": 2,
+  "version": "1.0.10.0",
+  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.10.zip",
+  "packageSha256": "C21D03189347705A32DE37ED130A473802B049ABA14907C2C14781A93B7FD653",
+  "packageSize": 24595093,
+  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.10.exe",
+  "installerSha256": "445436A80DDF3BAD0170B80C7E2E2C18A3B0835ACED752B870A02318DBD8985B",
+  "installerSize": 61440,
+  "notes": "\u8FC1\u79FB\u5230\u53CC\u66F4\u65B0\u901A\u9053\uFF1A\u65E7\u5B89\u88C5\u5668\u7EE7\u7EED\u4F7F\u7528\u517C\u5BB9\u6E05\u5355\u5B8C\u6210\u5347\u7EA7\uFF1B\u65B0\u7248\u5B89\u88C5\u5668\u4F7F\u7528 schema 2 \u4E0E\u7248\u672C\u5316\u4E0D\u53EF\u53D8 ZIP/EXE \u5730\u5740\uFF0C\u5F7B\u5E95\u907F\u514D GitHub Raw \u65B0\u65E7\u6587\u4EF6\u7F13\u5B58\u9519\u914D\u3002",
+  "signature": {
+    "algorithm": "PS256",
+    "keyId": "mod-release-2026-01",
+    "value": "YCJVc\u002BBoUp7z2Eb7WVz9e0bkn20YE5ZXNZYwKdLiVEVDoufShYdxBxm/c4iaTa7ojWMpeu8/fM4vgbgo\u002BC5k0vl0rvBkydSyGeHcBAL1XF2fXVS39dY8LiCPpC0DHhoXsyv9q5Kj0/sOple7Vxe7sRegCxv/SFUECGQ0/7jUNei4wGpnSYzt8Tv0MAV9W/hZw7XR2oOD/Wz86VLiA2vVPCuczZCFuiVrhUJIC4GZKyoGNlpA9XCxB4OV4L75u8pBLBaWDem0xv6hf\u002BsTF8uLoc1d010EMMlEOmXWWBB7YAZESArqCDduzkM8c0fiwSTPpKjNKrIJvsNRd7aIPPijt/wFYJIRL7tEAece8AOkbEQU2xTeuK9bSf4UuA6Ng9zgUWBtAH21/pLTbqdYg5yzkkuN\u002BALHw57pFroDFLFCKhRx8yNbEmuu/XyFd6E9odzZlI40DOv5h1ptEPvx4NuC9T/TkIoPLtVqfsABdrSqCDfOLOBzpAidaWWxcs0tZKav"
+  }
+}
