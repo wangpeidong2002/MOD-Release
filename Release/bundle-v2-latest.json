@@ -1,16 +1,16 @@
 {
   "schema": 2,
-  "version": "1.0.14.0",
-  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.14.zip",
-  "packageSha256": "42CB86F6539D5DF877BEF2AB60FF2718EBB040695B9373AB7C521B2D1377A512",
-  "packageSize": 24597570,
-  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.14.exe",
-  "installerSha256": "75A301F0C1C7791C11EE295F0C0678502BEE46FE9FBF837A98516EC3DE9F91D3",
+  "version": "1.0.15.0",
+  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.15.zip",
+  "packageSha256": "9D9191DA10FDA022AD5842BCE057EF5E72F6C7276E097407047B654D74245286",
+  "packageSize": 24597572,
+  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.15.exe",
+  "installerSha256": "8830EFFCC6316B9305E38B58FEB7B2F7E03E746DFF1C5FC9A35D3B37AFA90B46",
   "installerSize": 64512,
-  "notes": "\u63D2\u4EF6\u66F4\u65B0\u4F53\u9A8C\u91CD\u6784\uFF1A\u53D1\u73B0\u65B0\u7248\u540E\u53EF\u76F4\u63A5\u5728\u5DE5\u7A0B\u8BBE\u7F6E\u9875\u540E\u53F0\u4E0B\u8F7D\u3001\u9A8C\u7B7E\u5E76\u5B89\u88C5\uFF0C\u4E0D\u518D\u5F39\u51FA MOD Installer\uFF1B\u66F4\u65B0\u5199\u5165\u72EC\u7ACB\u7248\u672C\u76EE\u5F55\uFF0C\u5F53\u524D Rhino \u53EF\u7EE7\u7EED\u4F7F\u7528\uFF0C\u4E0B\u6B21\u542F\u52A8\u542F\u7528\u65B0\u7248\u3002",
+  "notes": "\u9759\u9ED8\u66F4\u65B0\u94FE\u8DEF\u9A8C\u8BC1\u7248\u672C\uFF1A\u7528\u4E8E\u9A8C\u8BC1\u4ECE 1.0.14 \u5F00\u59CB\uFF0C\u63D2\u4EF6\u66F4\u65B0\u53EF\u76F4\u63A5\u5728\u5DE5\u7A0B\u8BBE\u7F6E\u9875\u540E\u53F0\u4E0B\u8F7D\u3001\u9A8C\u7B7E\u5E76\u5B89\u88C5\uFF0C\u5168\u7A0B\u4E0D\u5F39\u51FA MOD Installer\uFF0C\u5F53\u524D Rhino \u53EF\u7EE7\u7EED\u4F7F\u7528\u3002",
   "signature": {
     "algorithm": "PS256",
     "keyId": "mod-release-2026-01",
-    "value": "ghKcEsKVMyMfsWkVH3I4vvL4eZG0d/SYZJd3sWA0Zlb1rDcfviYt/IG6KizhHWl1yFt8K/qnR68N0k2KNS3/XXcosebBeSlw/GRunaBT4IE9eaWnqgo\u002BXQpE3YXYjDLlW9pZ2\u002BWq9nzzioEcZ03gJp8dhvhJqwlkfPNlbiU4jXl3ehxpQgs4JEZd51fF3c6e5iglk9nGfxPXPDaYNTA5CGPS8NyEF/a6G2a\u002BFSb7u0Ee9XuaNxx0t61tfoWYjj\u002BPtX62h/YOoKS6fkj52f\u002BbVgmNOjdvqoI\u002BJhe\u002B/zJN5rJBQICxKVaZCNl/5SfbXI64aA181Q3WOQv7k4YpFRisWavvM6G1UmtZ4VYj4qnyiL9kK\u002Bq5auIZtELPBAZcWxeGGum/LkqwJlqrd7aVK1SjS37Qv5KtNbRAaHbtHhvDVsQs0Bq2A\u002BmrumnluXY5NCd0W2Msg5R2csasv8VFtcB2JEsW6eGUId62L4P6bg3bzSUivxj3RtuLee4TRp82xsXa"
+    "value": "FG5\u002BZJSRSOVoBIC239nsfVaGI1hZx\u002Bn2fp\u002BqH/EIxno7zYlHrEUMLaQWTdQ/q17cj5z6/guW8f0Us5u\u002BMwOZWJTYwvKSrFwXbemxyOCm\u002BbpP0GbfKrJv8b6qjyppq5wk2SYANIaGaJj3G1dnqnuXfgu8lJfnkLRrCPYz42Hil8qAWPK6btlN\u002BYDtP\u002BKsdn9Oq/aeEiYTI7mRtDj77rG34JbAmalpI1aaLO0rtR9HCuohtg8I9gN0IXOTlRVpInyWuezsBJ6EzeXkvIudCHMBHuVHyRPPpnqcoZpESnmLhBAo1sF5hv68zLol1lYuDooNkgRbtFmWFve6IZ5ALKb5qRkReW2WStK1/\u002Bz2S7G6ywFdc3dDoreYYFfvsidQa83fSY4EkQWzUoQkJt4xTgypa2fP2RRIyhVtedbJOOq/JStLa\u002B8scCju5vKdS9sqXVuRQDxE62tVLperfZ6gFtOQYWo8qgXX7BVc1Mf\u002BNGMbZAsVn/ktyGh\u002BLgPO\u002BuWnvQSf"
   }
 }
