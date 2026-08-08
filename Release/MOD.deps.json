@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MOD/1.0.3": {
+      "MOD/1.0.5": {
         "dependencies": {
           "RhinoCommon": "8.31.26126.13431"
         },
@@ -28,7 +28,7 @@
     }
   },
   "libraries": {
-    "MOD/1.0.3": {
+    "MOD/1.0.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

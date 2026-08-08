@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "version": "1.0.5.0",
+  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package.zip",
+  "packageSha256": "B17F0D3356D72EFBD26BE9956B964C028996537C5797E4AF9237D7A23DD5FAB9",
+  "packageSize": 24594255,
+  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller.exe",
+  "installerSha256": "978CD1CD75AB7445D32C7827BE79B8310299BA00F91280949ADCFD0457CE461B",
+  "installerSize": 59904,
+  "notes": "\u65B0\u589E\u5B8C\u6574\u63D2\u4EF6\u5B89\u88C5\u5668\uFF1A\u652F\u6301 RHP\u3001\u6838\u5FC3\u3001\u8868\u683C\u6A21\u5757\u4E0E\u8FD0\u884C\u7EC4\u4EF6\u7684\u7B7E\u540D\u6574\u5305\u66F4\u65B0\u3001\u4FEE\u590D\u3001\u56DE\u9000\u548C\u91CD\u542F Rhino\uFF1B\u8BBE\u7F6E\u9875\u4F18\u5148\u542F\u52A8\u672C\u5730\u5B89\u88C5\u5668\u3002",
+  "signature": {
+    "algorithm": "PS256",
+    "keyId": "mod-release-2026-01",
+    "value": "kYQmcqmwnSmoklHaewmh7BxHmzeW0OmDCcr0GcwfqweESKdLmT/qxURf03H1lm3EPC4RUwjBu4KzWP0\u002Bv7g7twcOE/keZ0DVjeYvXQ1tOtxsM2USgCHooXxe6FVADzp2kuTCxShlr1zM5Og8rVkSoqRsJ/jBbPvocRdxTDM7cKnhxDAcUU09No3jFTVddTUmzvT2SW9avs\u002BzFVIN7P91wIu4BTINNu0PoVULLeX1xOqpzOtuVyB682X07U/Jp6LgLg8j7jn\u002B2es90pTo0vMKl99GZBe85PRUUczd0T/zWtcRypEX9cnhL4PzlLrEMcB7mx/CG6ezYkW8TIrWliWSserEC/GkZ4Vr3hZORDixVSk40LaUavHSR40gUxZ8ACybAsRK1Fo4Qy0eYX\u002BIV1hM\u002BhAQHszlWw8uo7F85q\u002By69nwfCkRJ8kCXl5jhxU/sheNDfhKh2pOZCIdOv1fOBDFt04HuJemuN7YLirjd4KGZN9B9OLkeeyha5riCS53\u002BckV"
+  }
+}
