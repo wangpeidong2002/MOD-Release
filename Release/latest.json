@@ -1,6 +1,12 @@
 {
-    "version":  "1.0.2",
-    "url":  "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODCreo.dll",
-    "sha256":  "63C400DCE3CB5D09E4AA697213646C3EEFE7700447BCBFD9E41ACE991A8A1B28",
-    "notes":  "强化 Release 混淆：隐藏授权敏感字符串、重命名内部授权实现，并增加受保护产物发布校验。"
+  "schema": 1,
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODCreo.dll",
+  "sha256": "413545002AF97E2888E8C789E483E61D45C3B1F0B478F6F5DE53856114BA02F9",
+  "notes": "\u5B89\u5168\u66F4\u65B0\uFF1A\u6838\u5FC3\u4E0E\u66F4\u65B0\u6E05\u5355\u542F\u7528 RSA-3072/PSS \u7B7E\u540D\uFF0C\u52A0\u5165\u7248\u672C\u7ED1\u5B9A\u3001\u53CD\u964D\u7EA7\u3001\u65E0\u7F13\u5B58\u4E0B\u8F7D\u3001\u5E76\u53D1\u539F\u5B50\u66FF\u6362\u4E0E\u5F3A\u5316\u4FDD\u62A4\u95E8\u7981\u3002",
+  "signature": {
+    "algorithm": "PS256",
+    "keyId": "mod-release-2026-01",
+    "value": "XjrEyiJp\u002B4IF6eY899RstT93pI297VBCjwGEwh\u002BxMyjVndcNPhUq1NoPZaLxGeS2a69FmCjY7P2lU8d494BlouS9CNXvi0xGDzjS\u002B6PjIyDt4BEA4lcNfKzni9QO90eLQbr6ekDLmPnisGIUfp5\u002BpY6XzXPoq/kNH9U1NVRX58LTV0tcr2\u002Bu2TfW4NAy\u002BwtYfdmqt3EAzZAunn94piPInT9n6ledK1LM3nk7U5H4tUTSu\u002BNuKHisKgqR3VbCQYuMaGgTXvllezKO2Pz5UG1zgjhuffUHnS\u002BZ6bv5fbmBDY9WixuZaBizYD1QoPJTbT1CfURLgF6z52weG\u002B4TRjs7k6F3\u002B5cdywa3s76xctTi2SEcNQr0j8zTayE0PJdLhi76wemS\u002BOnCWl7PaVYhmFdDRUHCBp1joIhexNR9Yet3WIHdmwVd\u002ByqrvQfUZB8eYo6oMt90qWLtOuWpCv9YC5PS5JTHYEiRQe4SI\u002BhMk5dZu9xSv9feBZ4OZ1YTaj5ogRzC"
+  }
 }
