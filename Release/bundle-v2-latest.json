@@ -1,16 +1,16 @@
 {
   "schema": 2,
-  "version": "1.0.12.0",
-  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.12.zip",
-  "packageSha256": "97CAEB0B94EEB43F5061F603DEBB6709348AF77781565B08527F24602E7BD658",
-  "packageSize": 24595133,
-  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.12.exe",
-  "installerSha256": "616907DD3DF3BFB17D6C7E02921B035F5A8E1819D5573B39709411084B7E2828",
+  "version": "1.0.13.0",
+  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.13.zip",
+  "packageSha256": "1F6D4DF5825CD8DAAAF2ACA15CF76C55BA7A3FF3871A6AF01A6437479DACF389",
+  "packageSize": 24595496,
+  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.13.exe",
+  "installerSha256": "81B6EF23A11B6473F51A51A8C523FF32E5DCD983A88838D1DAB35CB86C79CD56",
   "installerSize": 61440,
-  "notes": "\u66F4\u65B0\u901A\u9053\u56DE\u5F52\u6D4B\u8BD5\u7248\u672C\uFF1A\u9A8C\u8BC1 schema 2 \u7248\u672C\u5316\u4E0D\u53EF\u53D8\u8D44\u6E90\u3001\u7B7E\u540D\u6574\u5305\u66F4\u65B0\uFF0C\u4EE5\u53CA\u5B89\u88C5\u5B8C\u6210\u540E\u9ED8\u8BA4\u4FDD\u6301 Rhino \u5173\u95ED\u3002",
+  "notes": "\u63D2\u4EF6\u66F4\u65B0\u9875\u4F53\u9A8C\u4F18\u5316\uFF1A\u6BCF\u6B21\u6253\u5F00\u5DE5\u7A0B\u8BBE\u7F6E\u540E\uFF0C\u9996\u6B21\u8FDB\u5165\u63D2\u4EF6\u66F4\u65B0\u9875\u4F1A\u5728\u5F53\u524D\u754C\u9762\u81EA\u52A8\u68C0\u67E5\u4E00\u6B21\uFF1B\u68C0\u67E5\u8FC7\u7A0B\u4E0D\u542F\u52A8 MOD Installer\uFF0C\u624B\u52A8\u68C0\u67E5\u4ECD\u53EF\u4F7F\u7528\u3002",
   "signature": {
     "algorithm": "PS256",
     "keyId": "mod-release-2026-01",
-    "value": "Nyq4MYxpikT8i0yUxqsZcN0RhPd2efr6S76wg4elIp/CshzGwcwzLgwK83XJSopPL1UGnGBunpt0c52wSt2MyoZQ2J/5mRXUlwZ0\u002B1twxho9dDltsiazdw6p\u002BGxBjbZoaAIkAS100iMisDdZxDVqaqhgX66tfDJsx3MOU/4HC8zpeUhXwqU85VKt79PbZqDk4Wp3epnZO0Ur973yt9AfKGS4Rsw8frJr9Mb/6/6uGRmEm6/VN3aMruX8fR5VMX5WigNc5nRO9ihVWBW0hJBONpZDv1Tn0Sd7xtNpvJHsEShVegS7oEyfSGBdHd1Z52jiYB\u002BQfzsx\u002BVQlaSfg7fJR7N0IMxJMr8xq3ZJGU11OfwLt8moVklcwDOJ\u002B4CRpnjepURdpPjnfhoy0kYhdGI637V3bRXmgI\u002BdJFBJHoihU6XlOAiQv6HSUmfOK3cZeBNNZGajI8kVdyHO8hnmE8zynJtGMyexaZFcLkUrI5nVii8rk5c6M4PTRPjDp1AdSmJ1G"
+    "value": "RFMLYXQ5gtb8eQqvnL7DHEuUOgchNfRhIYEzu5Iitk8CXUcrjxJIXbiNLz8oAaS/MqDyoi2UjNFu8DWtfWwHpNH/PNcD/0XxVVMiAXCnKUyD69pfLzOe3CWzxTH6Cv8wv4ajcC8Z8isM4swYzC/SaweJ23lyYle1JH6OEidIweVgjvJdHNuDgLDqKt87tMc51BzUZwrpVe0h\u002BB7VRPSbT6KgPGAYzKhLCTcH9XWV3eeGqaRQuWmA7lUnvEoYeeC0XxnltzHv5mQe4XCTHeRc4JawZ4eK/E1X70QeUN0khxWy7TlcUgFcLjOC8vW0vVxMUR8Poj0hdib3yPWq/J5N6wxGMk4Cfb\u002B\u002Bl8K59Gpy5\u002BpjaEs6/Io9wu2pJmCOhhZhnpkuquVw0MXI1lr\u002BysjaFhnfSrWnmB4sHGYIGVVZvVKHvUJEANjcXe98nR5o/Uo3cIM6d7dlSZT3dw7ARcYh6cxpS8xLRdiJ\u002BIH2AkGihZWCrr/77yy1GbJFPXj1D3oM"
   }
 }
