@@ -1,16 +1,16 @@
 {
   "schema": 2,
-  "version": "1.0.44.0",
-  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.44.zip",
-  "packageSha256": "91ED5DC7AD83914F9AAF5512FB805EC203CBE1637E65697F2DF0342AACB9F5C7",
-  "packageSize": 22789256,
-  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.44.exe",
-  "installerSha256": "4903CABEC3498506765D1161571B0FC2C4562324EDAC81DAF0B42B73F63E117E",
+  "version": "1.0.45.0",
+  "packageUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.45.zip",
+  "packageSha256": "98E11BE80C574E62E3504C144ECC607E7C9E410874ABBEAB842E3162DDE37C81",
+  "packageSize": 22790059,
+  "installerUrl": "https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.45.exe",
+  "installerSha256": "B6556130EB09553D1B614637648C0E4DE7FBB104D8B0AA55F9B21FF8CB01353E",
   "installerSize": 70656,
-  "notes": "MODCreo.dll \u652F\u6301\u5F53\u524D Rhino \u8FDB\u7A0B\u70ED\u91CD\u8F7D\uFF1B\u79FB\u9664\u5C0F\u52A9\u624B\u529F\u80FD\uFF1B\u66F4\u65B0 MOD.rhp \u5916\u58F3\u3002",
+  "notes": "\u4FEE\u590D GitHub Raw TLS \u63E1\u624B\u5931\u8D25\u5BFC\u81F4\u6388\u6743\u8BEF\u62E6\u622A\uFF1A\u6388\u6743\u6539\u4E3A GitHub API \u4F18\u5148\u3001\u65E7\u7EBF\u8DEF\u56DE\u9000\uFF0C\u5E76\u533A\u5206\u7F51\u7EDC\u6545\u969C\u4E0E\u672A\u6388\u6743\u3002",
   "signature": {
     "algorithm": "PS256",
     "keyId": "mod-release-2026-01",
-    "value": "ZdJDBvjXS6owB01/iwnk761FqKRODKNM/rS/O0yrjuyuZGmKLZcYc8GSKq97SS6C61RHlUipzOyjfp8suWYB4Aq9QPf\u002BF1AAhn56aUDj6qsWZKkugwKehXKjhfcs\u002BKdeliS\u002BgLcn4k1GMCW1amE0tw2Ep43xcWORNm\u002BoJc9P\u002B5egT8GbtYmesl4o7B36zflLFc5qMr5tnyxuALJI5OzIfVdzd9XJWoBCOpHiFPIKEKFWhhhXG8YszW8hXRqeiQQNKoe1Y033M6zgQxdVZ48ove6KZ2PGb1n5cuyOMNnR3K9\u002B9AfE//voOMdBbYC92d1yp8iCAAhFiBp9hp\u002Bvfc1YDH3ICQkmoTXFSsnMta8gU9pbUZMp7N26Rr\u002BlocUcjppnqaFPA5uKA4HcxeXuKpkZ9JhAKy7/wWnKpNDWV1Nbtbhf3PN5BbCV3yM1qa7dV1/OHWQ5eXYLSuV/kMSyuuGeFIMtpiJ\u002BR7zFPsrynlu67J38GVSF4jbFUF\u002BIG7QGj6dl"
+    "value": "LGCe0h3pnVe8dnVY\u002BvoFV99m2pbaYcIHRMyA7aF2wMK1gqj2/ZXRDCWuGTy\u002BBmG9KFLITAw5Jcr/idOADg6EWN0UzJjTGSTYtDe1OtDBYpfvSF7sd\u002BF\u002Br4uZKkuVUT4pZ5\u002B3VaxTIUFlSxF/Pk5aCp8tt5cFjhY0LlShPg3DkiZze2mxjMcmzhF0yRcDQBz3S7oMD7wfavpOoox567KNwXHWDeTDsT4B7x9IeCcPnsBQyGVNHPeizSGiChoFYf39HwE/l6IZjdk6dHGYW7cQyNUHi4/WHuEgyLq6X3tAKzfLYTkJxB/XXwxB5H9AH1TvdEi/e\u002BPqLrGGys7Ds/bo/GoldbrHEsqRc4gZUo5nAVHrdURQrqz/nQyD\u002BGNNdVfQALQ/YiANCl7/QBlwJUdzYtvNmxGJY3kbEh8qYcQ\u002BRAA0ihg5li0gkhbyOoSie09kaCx9AMg9HtrsX/w8OTaYUPNWVFwhUWksVnKSLIc1WxTjDt0C9M\u002BWtbNvznRlbgSR"
   }
 }
