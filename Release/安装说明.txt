@@ -1,7 +1,9 @@
-MOD Release（Rhino 8 / .NET 7）
+MOD 1.0.100 Release（Rhino 8 / .NET 7）
 
 安装：
-1. 保持本文件夹内所有 DLL、JSON 和 runtimes 子目录的相对位置不变。
+推荐使用 MODInstaller-1.0.100.exe；请先保存模型并关闭 Rhino，安装器会同步外壳、核心和依赖。
+手动安装请完整解压 MOD-package-1.0.100.zip，再执行以下步骤：
+1. 保持本文件夹内所有 DLL、JSON、EmbeddedResource 和 runtimes 子目录的相对位置不变。
 2. 在 Rhino 8 的插件管理器中安装 MOD.rhp，或把 MOD.rhp 拖入 Rhino 窗口。
 3. 重启 Rhino 后运行 MOD_License，确认显示“已授权”。
 4. 如果 Rhino 已加载 Debug 版，请先保存工作并完全退出所有 Rhino 进程；运行中的同名插件无法热替换。
@@ -18,7 +20,7 @@ MOD Release（Rhino 8 / .NET 7）
 - 更新源不可编辑，也没有私有仓库或备用下载地址。
 - 更新清单与核心均使用独立 RSA-3072/PSS/SHA-256 发布签名；下载后还会校验完整文件 SHA-256。
 - 清单请求强制绕过缓存；下载采用同目录暂存和原子替换，失败时恢复旧版本。
-- 自动更新当前只替换 MODCreo.dll；完整安装或外壳更新请重新部署整个 Release 文件夹。
+- 完整更新使用 bundle-v2-latest.json 验证版本化 ZIP 与安装器的签名、大小和 SHA-256；旧版 latest.json 保留核心更新兼容。涉及依赖的升级请使用完整安装器。
 
 发布说明：
 - MOD.rhp 和 MODCreo.dll 已执行发布混淆。
