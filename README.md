@@ -4,11 +4,12 @@ MOD Rhino 插件的公开、匿名更新分发仓库。这里只保存可安装�
 
 ## 下载与安装
 
-当前版本：**MOD 1.0.100**（2026-09-30）。
+当前版本：**MOD 1.0.226**（2026-10-08）。
 
-- [下载完整安装器](https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.100.exe)
-- [下载完整安装包](https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.100.zip)
-- [版本说明](https://github.com/wangpeidong2002/MOD-Release/releases/tag/v1.0.100)
+- [下载完整安装器](https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MODInstaller-1.0.226.exe)
+- [下载完整安装包](https://raw.githubusercontent.com/wangpeidong2002/MOD-Release/main/Release/MOD-package-1.0.226.zip)
+- [版本说明](https://github.com/wangpeidong2002/MOD-Release/releases/tag/v1.0.226)
+- [对应 MOD 源码与验证记录](https://github.com/wangpeidong2002/MOD/blob/adc28575ebc41310aa7158a4f9363b3eb27e633f/docs/RELEASE_1.0.226.md)
 
 旧版升级建议运行完整安装器，同步外壳、核心与运行依赖。保存模型后关闭 Rhino，再完成安装；安装器不会强制关闭 Rhino。手动安装请完整解压 ZIP，并保留所有相对目录。
 

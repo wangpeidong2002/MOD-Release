@@ -1,0 +1,2 @@
+# Keep released runtime files byte-for-byte identical to the signed bundle.
+Release/** -text

@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MODCreo/1.0.100": {
+      "MODCreo/1.0.226": {
         "dependencies": {
           "ACadSharp": "3.6.12",
           "ClosedXML": "0.105.0",
           "Google.OrTools": "9.12.4544",
-          "MOD.Parametric.Core": "1.0.56",
+          "MOD.Parametric.Core": "1.0.226",
           "NetTopologySuite": "2.6.0",
           "RhinoCommon": "8.31.26126.13431",
           "Microsoft.Windows.SDK.NET": "10.0.19041.38",
@@ -2209,11 +2209,11 @@
           }
         }
       },
-      "MOD.Parametric.Core/1.0.56": {
+      "MOD.Parametric.Core/1.0.226": {
         "runtime": {
           "MOD.Parametric.Core.dll": {
-            "assemblyVersion": "1.0.100.0",
-            "fileVersion": "1.0.100.0"
+            "assemblyVersion": "1.0.226.0",
+            "fileVersion": "1.0.226.0"
           }
         }
       },
@@ -2236,7 +2236,7 @@
     }
   },
   "libraries": {
-    "MODCreo/1.0.100": {
+    "MODCreo/1.0.226": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -2381,7 +2381,7 @@
       "path": "system.io.packaging/8.0.1",
       "hashPath": "system.io.packaging.8.0.1.nupkg.sha512"
     },
-    "MOD.Parametric.Core/1.0.56": {
+    "MOD.Parametric.Core/1.0.226": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

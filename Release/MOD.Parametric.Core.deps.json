@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "MOD.Parametric.Core/1.0.100": {
+      "MOD.Parametric.Core/1.0.226": {
         "runtime": {
           "MOD.Parametric.Core.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "MOD.Parametric.Core/1.0.100": {
+    "MOD.Parametric.Core/1.0.226": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
